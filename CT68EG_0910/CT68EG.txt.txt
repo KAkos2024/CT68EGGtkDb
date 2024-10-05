@@ -1,0 +1,18 @@
+ git init                      
+ git status                    
+ git add <file>                
+ git commit -m "message"        
+ git log                       
+ git diff                       
+ git branch                    
+ git checkout         
+ git merge         
+
+ git remote add    
+ git push       
+ git pull     
+ git clone <url>               
+ git fetch                     
+ git push 
+ git remote                 
+ git push            
